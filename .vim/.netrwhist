@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/work/code/lianjia-tp/modules/lianjia-tp/controllers'
+let g:netrw_dirhist_2='/home/work/code/lianjia-tp/modules/lianjia-tp/config'
+let g:netrw_dirhist_3='/home/work/code/lianjia-tp/htdocs/help'
+let g:netrw_dirhist_4='/home/work/code/lianjia-tp/application/controllers'
